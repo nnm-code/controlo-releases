@@ -1,0 +1,71 @@
+{
+  "signatures": [
+    {
+      "keyid": "48c0a2b7ba66aa6e1d780fc3c604f94b0a01c7a5a0342f8f167a919369a07412",
+      "sig": "6b51bfc9945b16e31c31fc9df8a68086cd6eab77ee3440ef58eacd7cf18fb2b307336d7c2480372cbf856a9d22690b3bed89ab0654fc3059fb9b87a2961cc206"
+    }
+  ],
+  "signed": {
+    "_type": "root",
+    "spec_version": "1.0.31",
+    "version": 1,
+    "expires": "2027-10-15T14:26:42.025Z",
+    "keys": {
+      "48c0a2b7ba66aa6e1d780fc3c604f94b0a01c7a5a0342f8f167a919369a07412": {
+        "keytype": "ed25519",
+        "scheme": "ed25519",
+        "keyval": {
+          "public": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAQLmdYFXzT1m2OLm78/eB5ohKg7YjDUZH0C9+OYCwy6c=\n-----END PUBLIC KEY-----\n"
+        }
+      },
+      "e01bedaf1f3762bd8bd1d54c58fc12bc96e24453e9defe60469eab590dab8c42": {
+        "keytype": "ed25519",
+        "scheme": "ed25519",
+        "keyval": {
+          "public": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAjQbcb93Co3ktYFoR8PZbrzDSyVkHH9dSgfvVoegsjag=\n-----END PUBLIC KEY-----\n"
+        }
+      },
+      "215c4f544219adbb9fd86be22e4d66c5481a669c992d293a20105accab342b07": {
+        "keytype": "ed25519",
+        "scheme": "ed25519",
+        "keyval": {
+          "public": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAuu+ms4QeQWtOqpocPujzp23NTwsReWccIxlVk9/q5ko=\n-----END PUBLIC KEY-----\n"
+        }
+      },
+      "1cef51c8db2625008871116c2a764cb6f8405d13fc8fb0f63652e32a8f47589c": {
+        "keytype": "ed25519",
+        "scheme": "ed25519",
+        "keyval": {
+          "public": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAWQ2aAZBqZXMZBFZpA3bLwEqew2E9uX9ZazcMCvGjjbo=\n-----END PUBLIC KEY-----\n"
+        }
+      }
+    },
+    "roles": {
+      "root": {
+        "keyids": [
+          "48c0a2b7ba66aa6e1d780fc3c604f94b0a01c7a5a0342f8f167a919369a07412"
+        ],
+        "threshold": 1
+      },
+      "targets": {
+        "keyids": [
+          "e01bedaf1f3762bd8bd1d54c58fc12bc96e24453e9defe60469eab590dab8c42"
+        ],
+        "threshold": 1
+      },
+      "snapshot": {
+        "keyids": [
+          "215c4f544219adbb9fd86be22e4d66c5481a669c992d293a20105accab342b07"
+        ],
+        "threshold": 1
+      },
+      "timestamp": {
+        "keyids": [
+          "1cef51c8db2625008871116c2a764cb6f8405d13fc8fb0f63652e32a8f47589c"
+        ],
+        "threshold": 1
+      }
+    },
+    "consistent_snapshot": false
+  }
+}

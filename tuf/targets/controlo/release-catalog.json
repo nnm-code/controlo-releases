@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-15T13:37:21.567Z",
+  "channel": "stable",
+  "releases": [
+    {
+      "component": "desktop-client",
+      "version": "1.0.52",
+      "releaseId": "desktop-client@1.0.52",
+      "buildId": null,
+      "sourceCommit": null,
+      "publishedAt": "2026-10-15T13:35:31Z",
+      "channel": "stable",
+      "platform": "windows-x64",
+      "status": "stable",
+      "requires": {
+        "serverApi": {},
+        "serverSchema": {},
+        "browserUi": {}
+      },
+      "provides": {
+        "apiContract": null,
+        "schemaVersion": null
+      },
+      "artifact": {
+        "url": "https://github.com/nnm-code/controlo-releases/releases/download/v1.0.52/controlo-setup-1.0.52.exe",
+        "sha256": "6b100c4bf8346b99b35844c609f8ca3f13d4e20fd664bb97a302544a21422e4a",
+        "length": 119387647
+      }
+    },
+    {
+      "component": "desktop-client",
+      "version": "1.0.50",
+      "releaseId": "desktop-client@1.0.50",
+      "buildId": null,
+      "sourceCommit": null,
+      "publishedAt": "2026-10-15T09:16:43Z",
+      "channel": "stable",
+      "platform": "windows-x64",
+      "status": "pilot",
+      "requires": {
+        "serverApi": {},
+        "serverSchema": {},
+        "browserUi": {}
+      },
+      "provides": {
+        "apiContract": null,
+        "schemaVersion": null
+      },
+      "artifact": {
+        "url": "https://github.com/nnm-code/controlo-releases/releases/download/v1.0.50/controlo-setup-1.0.50.exe",
+        "sha256": "3f1cb336aa67f62df983f55b4649e973a21ef6ebb6134421682428f976a1736d",
+        "length": 119386239
+      }
+    },
+    {
+      "component": "desktop-client",
+      "version": "1.0.49",
+      "releaseId": "desktop-client@1.0.49",
+      "buildId": null,
+      "sourceCommit": null,
+      "publishedAt": "2026-10-14T08:12:11.643Z",
+      "channel": "stable",
+      "platform": "windows-x64",
+      "status": "pilot",
+      "requires": {
+        "serverApi": {},
+        "serverSchema": {},
+        "browserUi": {}
+      },
+      "provides": {
+        "apiContract": null,
+        "schemaVersion": null
+      },
+      "artifact": {
+        "url": "https://github.com/nnm-code/controlo-releases/releases/download/v1.0.49/controlo-setup-1.0.49.exe",
+        "sha256": "c2a40bc1116e5434696307b53bfe221cfb2dea9340df4abef5214a09fa4be19a",
+        "length": 126006752
+      }
+    },
+    {
+      "component": "desktop-client",
+      "version": "1.0.46",
+      "releaseId": "desktop-client@1.0.46",
+      "buildId": null,
+      "sourceCommit": null,
+      "publishedAt": null,
+      "channel": "stable",
+      "platform": "windows-x64",
+      "status": "withdrawn",
+      "requires": {
+        "serverApi": {},
+        "serverSchema": {},
+        "browserUi": {}
+      },
+      "provides": {
+        "apiContract": null,
+        "schemaVersion": null
+      },
+      "artifact": {
+        "url": "https://github.com/nnm-code/controlo-releases/releases/download/v1.0.46/controlo-setup-1.0.46.exe",
+        "sha256": null,
+        "length": null
+      }
+    }
+  ]
+}
