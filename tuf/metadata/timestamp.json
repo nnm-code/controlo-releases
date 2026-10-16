@@ -2,20 +2,20 @@
   "signatures": [
     {
       "keyid": "1cef51c8db2625008871116c2a764cb6f8405d13fc8fb0f63652e32a8f47589c",
-      "sig": "edad398cc3b1f59fbd4193769d7a32502451ad4c80f627e9a2aaf9b4b5fc29decdf9a083764ccf96c8ea9730e16980589acbde3b46df36646610106f3cc8f103"
+      "sig": "cb65a676ac4d4de85b3c2d9a6f6edae552e5848c29f3b8b5901bbbdc3bae49aadc20155eceb8a03efa7a7bdf55f8f2c9c524a223b53537a417c8e1da0f47d405"
     }
   ],
   "signed": {
     "_type": "timestamp",
     "spec_version": "1.0.31",
-    "version": 4,
-    "expires": "2026-10-18T08:55:48.346Z",
+    "version": 5,
+    "expires": "2026-10-18T13:25:35.596Z",
     "meta": {
       "snapshot.json": {
-        "version": 4,
+        "version": 5,
         "length": 614,
         "hashes": {
-          "sha256": "11fb04e00063c94381322f63027f1bea651341b942f7d1e435a31f451b454f10"
+          "sha256": "853bbe4826219d3ed2c3323cd2681a43c6c5e5b9e6252dc04de70dd127db7951"
         }
       }
     }
