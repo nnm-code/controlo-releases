@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T14:23:05.549Z",
+  "generatedAt": "2026-10-24T12:20:35.386Z",
   "channel": "stable",
   "releases": [
     {
       "component": "desktop-client",
-      "version": "1.0.63",
-      "releaseId": "desktop-client@1.0.63",
+      "version": "1.0.64",
+      "releaseId": "desktop-client@1.0.64",
       "buildId": null,
       "sourceCommit": null,
-      "publishedAt": "2026-10-23T14:23:05.292Z",
+      "publishedAt": "2026-10-24T12:20:35.160Z",
       "channel": "stable",
       "platform": "windows-x64",
       "status": "stable",
@@ -23,9 +23,59 @@
         "schemaVersion": null
       },
       "artifact": {
+        "url": "https://github.com/nnm-code/controlo-releases/releases/download/v1.0.64/controlo-setup-1.0.64.exe",
+        "sha256": "e243f2ecefec777489bbc2baa0ac70fe259478e728e3df9292bfb0751bdd2a50",
+        "length": 119499291
+      }
+    },
+    {
+      "component": "desktop-client",
+      "version": "1.0.63",
+      "releaseId": "desktop-client@1.0.63",
+      "buildId": null,
+      "sourceCommit": null,
+      "publishedAt": "2026-10-23T14:23:19Z",
+      "channel": "stable",
+      "platform": "windows-x64",
+      "status": "pilot",
+      "requires": {
+        "serverApi": {},
+        "serverSchema": {},
+        "browserUi": {}
+      },
+      "provides": {
+        "apiContract": null,
+        "schemaVersion": null
+      },
+      "artifact": {
         "url": "https://github.com/nnm-code/controlo-releases/releases/download/v1.0.63/controlo-setup-1.0.63.exe",
         "sha256": "c4a5e84004a0b636f0974f021373a12dd28c436bfc4d15887988f6fef190321b",
         "length": 119497142
+      }
+    },
+    {
+      "component": "desktop-client",
+      "version": "1.0.62",
+      "releaseId": "desktop-client@1.0.62",
+      "buildId": null,
+      "sourceCommit": null,
+      "publishedAt": "2026-10-23T13:43:55Z",
+      "channel": "stable",
+      "platform": "windows-x64",
+      "status": "pilot",
+      "requires": {
+        "serverApi": {},
+        "serverSchema": {},
+        "browserUi": {}
+      },
+      "provides": {
+        "apiContract": null,
+        "schemaVersion": null
+      },
+      "artifact": {
+        "url": "https://github.com/nnm-code/controlo-releases/releases/download/v1.0.62/controlo-setup-1.0.62.exe",
+        "sha256": "7e61c058243f8b000f4313a26f9cd1754bbbb71f49578ce9e72fa3b12e43b34a",
+        "length": 119497551
       }
     },
     {
