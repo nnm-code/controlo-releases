@@ -2,19 +2,19 @@
   "signatures": [
     {
       "keyid": "e01bedaf1f3762bd8bd1d54c58fc12bc96e24453e9defe60469eab590dab8c42",
-      "sig": "981af686069ca21ce38c9a06e1d9c3efea8969f5a7402f93dceaa6f09297cfe40202bf9895d25105b03915ea261c7a9a3e40e38b703d0d14bc51735941c81c02"
+      "sig": "1599ff2c3a9937cb112a0842d189e603e320d3b425e0b8c1f54b560cf609f629783bd5f3b745f6070fb321eb7317fedb2653de2fa96be2350f7d408302c42108"
     }
   ],
   "signed": {
     "_type": "targets",
     "spec_version": "1.0.31",
-    "version": 17,
-    "expires": "2027-01-28T13:27:21.236Z",
+    "version": 18,
+    "expires": "2027-01-31T06:40:59.560Z",
     "targets": {
       "controlo/release-catalog.json": {
-        "length": 11363,
+        "length": 12117,
         "hashes": {
-          "sha256": "cf69ed42cea3de570caae44d15a809686453de789a042004bbc04b8b508bed5a"
+          "sha256": "e8a6eeb9414d1e478a778452bf950715551e0150d45689d33401c40b6c4bff11"
         }
       }
     }
