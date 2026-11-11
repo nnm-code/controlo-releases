@@ -1,18 +1,47 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T06:40:45.314Z",
+  "generatedAt": "2026-11-11T14:17:50.699Z",
   "channel": "stable",
   "releases": [
+    {
+      "component": "desktop-client",
+      "version": "1.0.68",
+      "releaseId": "desktop-client@1.0.68",
+      "buildId": null,
+      "sourceCommit": null,
+      "publishedAt": "2026-11-11T14:17:50.558Z",
+      "channel": "stable",
+      "platform": "windows-x64",
+      "status": "stable",
+      "securityFix": false,
+      "repairBackport": false,
+      "requires": {
+        "serverApi": {},
+        "serverSchema": {},
+        "browserUi": {}
+      },
+      "provides": {
+        "apiContract": null,
+        "schemaVersion": null
+      },
+      "artifact": {
+        "url": "https://github.com/nnm-code/controlo-releases/releases/download/v1.0.68/controlo-setup-1.0.68.exe",
+        "sha256": "37f7044fb80ba9c4a8242155c5322c7acd9aff1d56ed116c2ddb7ae2259e72ad",
+        "length": 125089363
+      }
+    },
     {
       "component": "desktop-client",
       "version": "1.0.67",
       "releaseId": "desktop-client@1.0.67",
       "buildId": null,
       "sourceCommit": null,
-      "publishedAt": "2026-11-02T06:40:45.120Z",
+      "publishedAt": "2026-11-02T06:40:57Z",
       "channel": "stable",
       "platform": "windows-x64",
-      "status": "stable",
+      "status": "pilot",
+      "securityFix": false,
+      "repairBackport": false,
       "requires": {
         "serverApi": {},
         "serverSchema": {},
@@ -38,6 +67,8 @@
       "channel": "stable",
       "platform": "windows-x64",
       "status": "pilot",
+      "securityFix": false,
+      "repairBackport": false,
       "requires": {
         "serverApi": {},
         "serverSchema": {},
@@ -63,6 +94,8 @@
       "channel": "stable",
       "platform": "windows-x64",
       "status": "pilot",
+      "securityFix": false,
+      "repairBackport": false,
       "requires": {
         "serverApi": {},
         "serverSchema": {},
@@ -88,6 +121,8 @@
       "channel": "stable",
       "platform": "windows-x64",
       "status": "pilot",
+      "securityFix": false,
+      "repairBackport": false,
       "requires": {
         "serverApi": {},
         "serverSchema": {},
@@ -113,6 +148,8 @@
       "channel": "stable",
       "platform": "windows-x64",
       "status": "pilot",
+      "securityFix": false,
+      "repairBackport": false,
       "requires": {
         "serverApi": {},
         "serverSchema": {},
@@ -138,6 +175,8 @@
       "channel": "stable",
       "platform": "windows-x64",
       "status": "pilot",
+      "securityFix": false,
+      "repairBackport": false,
       "requires": {
         "serverApi": {},
         "serverSchema": {},
@@ -163,6 +202,8 @@
       "channel": "stable",
       "platform": "windows-x64",
       "status": "pilot",
+      "securityFix": false,
+      "repairBackport": false,
       "requires": {
         "serverApi": {},
         "serverSchema": {},
@@ -188,6 +229,8 @@
       "channel": "stable",
       "platform": "windows-x64",
       "status": "pilot",
+      "securityFix": false,
+      "repairBackport": false,
       "requires": {
         "serverApi": {},
         "serverSchema": {},
@@ -213,6 +256,8 @@
       "channel": "stable",
       "platform": "windows-x64",
       "status": "pilot",
+      "securityFix": false,
+      "repairBackport": false,
       "requires": {
         "serverApi": {},
         "serverSchema": {},
@@ -238,6 +283,8 @@
       "channel": "stable",
       "platform": "windows-x64",
       "status": "pilot",
+      "securityFix": false,
+      "repairBackport": false,
       "requires": {
         "serverApi": {},
         "serverSchema": {},
@@ -263,6 +310,8 @@
       "channel": "stable",
       "platform": "windows-x64",
       "status": "pilot",
+      "securityFix": false,
+      "repairBackport": false,
       "requires": {
         "serverApi": {},
         "serverSchema": {},
@@ -288,6 +337,8 @@
       "channel": "stable",
       "platform": "windows-x64",
       "status": "pilot",
+      "securityFix": false,
+      "repairBackport": false,
       "requires": {
         "serverApi": {},
         "serverSchema": {},
@@ -313,6 +364,8 @@
       "channel": "stable",
       "platform": "windows-x64",
       "status": "pilot",
+      "securityFix": false,
+      "repairBackport": false,
       "requires": {
         "serverApi": {},
         "serverSchema": {},
@@ -338,6 +391,8 @@
       "channel": "stable",
       "platform": "windows-x64",
       "status": "pilot",
+      "securityFix": false,
+      "repairBackport": false,
       "requires": {
         "serverApi": {},
         "serverSchema": {},
@@ -363,6 +418,8 @@
       "channel": "stable",
       "platform": "windows-x64",
       "status": "pilot",
+      "securityFix": false,
+      "repairBackport": false,
       "requires": {
         "serverApi": {},
         "serverSchema": {},
@@ -388,6 +445,8 @@
       "channel": "stable",
       "platform": "windows-x64",
       "status": "withdrawn",
+      "securityFix": false,
+      "repairBackport": false,
       "requires": {
         "serverApi": {},
         "serverSchema": {},
